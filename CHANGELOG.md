@@ -1,3 +1,6 @@
+### 1st June 2017
+* Added 'superman' command for Staff team. (DonOmar)
+
 ### 14th April 2017
 * Added a feature to stop the kill feature when the player is arrested. (Jack)
 * Updated kill to take the player's arrested and jail state into consideration. (Jack)
