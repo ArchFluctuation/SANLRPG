@@ -33,5 +33,17 @@ L10N = {
 		ar = "الغاء",
 		en_US = "Cancel",
 		fr = "Annuler"
+	},
+	["LOGIN_FIELDS"] = {
+		en_US = "*ACCOUNT* Please enter a username and password."
+	},
+	["REGISTER_DISALLOWED"] = {
+		en_US = "The use of ' is not allowed in account names."
+	},
+	["REGISTER_MISMATCH"] = {
+		en_US = "*ACCOUNT* Your passwords do not match."
+	},
+	["REGISTER_FIELDS"] = {
+		en_US = "*ACCOUNT* Please fill in all fields."
 	}
 }
