@@ -7,10 +7,15 @@
 ### SANLjobs
 |Export|Sided|Parameters|Description|
 |---|---|---|---|
+|getPlayerCareerProgression|Server|thePlayer, strCareer|Returns the career progression (number) of thePlayer for strCareer.|
 |getPlayerJob|Server|thePlayer|Returns the job name (string) of thePlayer.|
 |getPlayersByJob|Server|strJob|Returns a table of all players currently employed as strJob.|
+|getRankName|Server|strCareer, iProgression|Returns the rank name for strCareer at the level of iProgression.|
+|getRankNumber|Server|strCareer, iProgression|Returns the rank number for strCareer at the level of iProgression.|
 |isPlayerWorking|Server|thePlayer|Returns whether or not thePlayer is on-duty (boolean).|
+|modifyPlayerCareerProgression|Server|thePlayer, strCareer, iProgression|Modify the career progression of thePlayer for strCareer by iProgresion.|
 |removePlayerJob|Server|thePlayer|Forces thePlayer to resign from their job.|
+|setPlayerCareerProgression|Server|thePlayer, strCareer, iProgression|Sets the career progression of thePlayer for strCareer to iProgression.|
 |setPlayerJob|Server|thePlayer, strJob|Changes the job of thePlayer to strJob.|
 |setPlayerWorking|Server|thePlayer, bWorking|Sets whether or not thePlayer is on-duty.|
 
