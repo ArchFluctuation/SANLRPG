@@ -19,3 +19,9 @@
 |---|---|---|---|
 |exec|Server|strQuery [, ...]|Executes an SQL query (without waiting for results).|
 |query|Server|strQuery [, ...]|Executes an SQL query and polls results.|
+
+### SANLtools
+|Export|Sided|Parameters|Description|
+|---|---|---|---|
+|convertMoneyToString|Both|iMoney|Converts iMoney to to a nicely formatted string in U.S. Dollars with commas.|
+|getPlayerRecord|Server||Returns the (numerical) record for most players online at once.|
