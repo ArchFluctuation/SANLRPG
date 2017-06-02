@@ -1,3 +1,6 @@
+### 2nd June 2017
+* Removed ability for players to change the weather. (Callum)
+
 ### 1st June 2017
 * Added 'superman' command for Staff team. (DonOmar)
 
