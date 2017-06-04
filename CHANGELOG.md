@@ -1,3 +1,8 @@
+### 4th June 2017
+* Improved random notice outputs. (Jack)
+* Changed legal system to use default wanted stars. (Jack)
+* Added car chat. (Jack)
+
 ### 2nd June 2017
 * Removed ability for players to change the weather. (Callum)
 
