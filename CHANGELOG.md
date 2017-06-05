@@ -1,4 +1,5 @@
 ### 5th June 2017
+* Added Train Driver job.
 * Replaced the inaccurate speedometer with a DX-based speedometer. (Callum)
 * When taking a job, the ranks for that job are now displayed. (Callum)
 * Updated the ingame browser with plenty of bug fixes. One bug remaining. (Jack)
