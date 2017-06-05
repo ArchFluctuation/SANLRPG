@@ -1,4 +1,5 @@
 ### 5th June 2017
+* Replaced vehicle markers with a more modern mapped vehicle system. (Callum)
 * Added Train Driver job. (Callum)
 * Replaced the inaccurate speedometer with a DX-based speedometer. (Callum)
 * When taking a job, the ranks for that job are now displayed. (Callum)
