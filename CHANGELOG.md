@@ -1,3 +1,8 @@
+### 5th June 2017
+* Updated the ingame browser with plenty of bug fixes. One bug remaining. (Jack)
+* Fixed a bug with Groups which toggled binds when typing something in an edit box. (Jack)
+* Add ingame forum browser. (Jack)
+
 ### 4th June 2017
 * Improved random notice outputs. (Jack)
 * Changed legal system to use default wanted stars. (Jack)
