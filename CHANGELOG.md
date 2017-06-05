@@ -1,7 +1,8 @@
 ### 5th June 2017
+* When taking a job, the ranks for that job are now displayed. (Callum)
 * Updated the ingame browser with plenty of bug fixes. One bug remaining. (Jack)
 * Fixed a bug with Groups which toggled binds when typing something in an edit box. (Jack)
-* Add ingame forum browser. (Jack)
+* Added an ingame forum browser. (Jack)
 
 ### 4th June 2017
 * Improved random notice outputs. (Jack)
