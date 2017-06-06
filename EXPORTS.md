@@ -29,5 +29,6 @@
 |Export|Sided|Parameters|Description|
 |---|---|---|---|
 |convertMoneyToString|Both|iMoney|Converts iMoney to to a nicely formatted string in U.S. Dollars with commas.|
+|getElementSpeed|Client|theElement|Returns the movement speed (in KPH) of theElement.|
 |getPlayerCountry|Server|thePlayer|Returns the name of the country the player is connected from, or "Unknown".|
 |getPlayerRecord|Server||Returns the (numerical) record for most players online at once.|
