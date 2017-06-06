@@ -56,5 +56,8 @@ L10N = {
 	["REGISTER_FIELDS"] = {
 		en_US = "*ACCOUNT* Please fill in all fields.",
 		nl = "*ACCOUNT* Vul alle velden in."
+	},
+	["FUEL"] = {
+		en_US = "Fuel"
 	}
 }
