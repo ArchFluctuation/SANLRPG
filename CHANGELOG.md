@@ -1,3 +1,6 @@
+### 6th June 2017
+* On-duty staff can no longer be knife killed. (Callum)
+
 ### 5th June 2017
 * Made the ingame browser fullscreen to fix a bug. (Jack)
 * Replaced vehicle markers with a more modern mapped vehicle system. (Callum)
