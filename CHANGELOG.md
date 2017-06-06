@@ -1,4 +1,5 @@
 ### 5th June 2017
+* Made ingame browser fullscreen to fix a bug. (Jack)
 * Updated the ingame browser with plenty of bug fixes. One bug remaining. (Jack)
 * Fixed a bug with Groups which toggled binds when typing something in an edit box. (Jack)
 * Add ingame forum browser. (Jack)
