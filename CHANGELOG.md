@@ -1,4 +1,5 @@
 ### 7th June 2017
+* Players can now buy houses using cash. (Jack)
 * Added a resign command to easily quit your job. (Jack)
 * Updated browser to request required URLs after using command. (Jack)
 * Forced newly registered accounts to spawn in Los Santos. (Callum)
