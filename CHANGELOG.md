@@ -1,4 +1,5 @@
 ### 7th June 2017
+* Disabled clouds for client optimisation. (Callum)
 * Players can now buy houses using cash. (Jack)
 * Added a resign command to easily quit your job. (Jack)
 * Updated browser to request required URLs after using command. (Jack)
