@@ -1,3 +1,6 @@
+### 7th June 2017
+* Forced newly registered accounts to spawn in Los Santos. (Callum)
+
 ### 6th June 2017
 * On-duty staff can no longer be knife killed. (Callum)
 
