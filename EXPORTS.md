@@ -4,6 +4,14 @@
 |sendMessage|Server|strMessage, playerElem, red, green, blue|Sends a message to the player's messagebox. Use 'false' for playerElem to send to all players.|
 |sendClientMessage|Client|strMessage, red, green, blue [, funcFormattable]|Sends a message to the local player's messagebox. If you use %s in the strMessage, the return value of funcFormattable will show in real-time.|
 
+### SANLcore
+|Export|Sided|Parameters|Description|
+|---|---|---|---|
+|getAccountData|Server|accountID,strKey|Replacement for native MTA function (uses account ID, not username).|
+|getPlayerAccount|Server|thePlayer|Returns the account ID of the player, if they're logged in (or false).|
+|getPlayerUsername|Server|thePlayer|Returns the account username of the player, if they're logged in (or false).|
+|setAccountData|Server|accountID,strKey,value|Replacement for native MTA function (uses account ID, not username).|
+
 ### SANLjobs
 |Export|Sided|Parameters|Description|
 |---|---|---|---|
