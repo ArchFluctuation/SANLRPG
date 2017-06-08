@@ -1,3 +1,7 @@
+### 8th June 2017
+* Playtime is now recorded for players. (Callum)
+* Converted accounts system to use MySQL rather than inbuilt MTA accounts. (Callum)
+
 ### 7th June 2017
 * Disabled clouds for client optimisation. (Callum)
 * Players can now buy houses using cash. (Jack)
