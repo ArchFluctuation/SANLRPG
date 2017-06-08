@@ -21,7 +21,7 @@ L10N = {
 		ar = "تذكر كلمة المرور",
 		en_US = "Remember my password",
 		fr = "Mémoriser mon mot de passe",
-		nl = "Herriner mijn wachtwoord"
+		nl = "Herinner mijn wachtwoord"
 	},
 	["LOGIN"] = {
 		ar = "تسجيل الدخول",
@@ -58,6 +58,7 @@ L10N = {
 		nl = "*ACCOUNT* Vul alle velden in."
 	},
 	["FUEL"] = {
-		en_US = "Fuel"
+		en_US = "Fuel",
+		nl = "Benzine"
 	}
 }
