@@ -1,3 +1,11 @@
+### SANLadmin
+|Export|Sided|Parameters|Description|
+|---|---|---|---|
+|doesAccountHavePermission|Server|iAccount,strPermission|Checks whether iAccount has been assigned strPermission.|
+|giveAccountPermission|Server|iAccount,strPermission|Assign strPermission to iAccount.|
+|removeAccountPermission|Server|iAccount,strPermission|Remove assignment of strPermission to iAccount.|
+|getAccountPermissions|Server|iAccount|Returns a table of every permission assigned to iAccount.|
+
 ### SANLcommands
 |Export|Sided|Parameters|Description|
 |---|---|---|---|
