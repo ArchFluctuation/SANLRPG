@@ -1,10 +1,12 @@
 L10N = {
     ["PLAYTIME"] = {
         en_US = "Playtime",
-		nl = "Speeltijd"
+		nl = "Speeltijd",
+			tr = "Oynama Süresi"
     },
     ["TOTAL_PLAYTIME"] = {
         en_US = "Total Playtime",
-		nl = "Totale Speeltijd"
+		nl = "Totale Speeltijd",
+			tr = "Toplam Oynama Süresi"
     }
 }
