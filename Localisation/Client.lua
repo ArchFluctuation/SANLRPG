@@ -72,5 +72,7 @@ L10N = {
 		en_US = "Fuel",
 		nl = "Benzine",
 		tr = "Yakıt"
+	},
+	["INFO_RULES"] = {
 	}
 }
