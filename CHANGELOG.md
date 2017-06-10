@@ -1,4 +1,5 @@
 ### 10th June 2017
+* Improved logic for nametag generation. (Callum)
 * Fixed notice outputs. (Callum)
 * Newly registered players now spawn at Pershing Square. (Callum)
 * Fixed multiple bugs with vehicle spawners. (Callum)
