@@ -49,30 +49,33 @@ L10N = {
 		tr = "İptal"
 	},
 	["LOGIN_FIELDS"] = {
+		ar = "حساب* الرجاء ادخال اسم  اسم الحساب و الكلمه السريه*",
 		en_US = "*ACCOUNT* Please enter a username and password.",
 		nl = "*ACCOUNT* Vul een gebruikersnaam en wachtwoord in.",
 		tr = "*HESAP* Lütfen bir kullanıcı adı ve şifre girin."
 	},
 	["REGISTER_DISALLOWED"] = {
+		ar = "استخدام ال ' خير مصرح به في اسامي الحسابات",
 		en_US = "The use of ' is not allowed in account names.",
 		nl = "Het gebruik van ' is niet toegestaan in account namen.",
 		tr = "Kullanıcı adları ' işareti içeremez."
 	},
 	["REGISTER_MISMATCH"] = {
+		ar = "*كلمتك السريه لا تتطابق*حساب"
 		en_US = "*ACCOUNT* Your passwords do not match.",
 		nl = "*ACCOUNT* Je wachtwoorden komen niet overeen.",
 		tr = "*HESAP* Şifreleriniz eşleşmiyor."
 	},
 	["REGISTER_FIELDS"] = {
+		ar = "حساب*الرجاء املاء كل المجلات*",
 		en_US = "*ACCOUNT* Please fill in all fields.",
 		nl = "*ACCOUNT* Vul alle velden in.",
 		tr = "*HESAP* Lütfen bütün boşlukları doldurun."
 	},
 	["FUEL"] = {
+		ar = "وقود",
 		en_US = "Fuel",
 		nl = "Benzine",
 		tr = "Yakıt"
-	},
-	["INFO_RULES"] = {
 	}
 }
