@@ -1,4 +1,5 @@
 ### 10th June 2017
+* The head of the local player now follows the camera. (Callum)
 * Improved logic for nametag generation. (Callum)
 * Fixed notice outputs. (Callum)
 * Newly registered players now spawn at Pershing Square. (Callum)
