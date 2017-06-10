@@ -51,7 +51,7 @@ L10N = {
 	["LOGIN_FIELDS"] = {
 		en_US = "*ACCOUNT* Please enter a username and password.",
 		nl = "*ACCOUNT* Vul een gebruikersnaam en wachtwoord in.",
-		tr = "* HESAP Lütfen bir kullanıcı adı ve şifre girin"
+		tr = "*HESAP* Lütfen bir kullanıcı adı ve şifre girin."
 	},
 	["REGISTER_DISALLOWED"] = {
 		en_US = "The use of ' is not allowed in account names.",
@@ -61,16 +61,16 @@ L10N = {
 	["REGISTER_MISMATCH"] = {
 		en_US = "*ACCOUNT* Your passwords do not match.",
 		nl = "*ACCOUNT* Je wachtwoorden komen niet overeen.",
-		tr = "* HESAP Şifreleriniz eşleşmiyor."
+		tr = "*HESAP* Şifreleriniz eşleşmiyor."
 	},
 	["REGISTER_FIELDS"] = {
 		en_US = "*ACCOUNT* Please fill in all fields.",
 		nl = "*ACCOUNT* Vul alle velden in.",
-		tr = "* HESAP Lütfen bütün boşlukları doldurun."
+		tr = "*HESAP* Lütfen bütün boşlukları doldurun."
 	},
 	["FUEL"] = {
 		en_US = "Fuel",
 		nl = "Benzine",
-		tr = "-Yakıt"
+		tr = "Yakıt"
 	}
 }
