@@ -1,3 +1,11 @@
+### 10th June 2017
+* Fixed notice outputs. (Callum)
+* Newly registered players now spawn at Pershing Square. (Callum)
+* Fixed multiple bugs with vehicle spawners. (Callum)
+* Added 'plate' command. (Callum)
+* Redesigned login/register interface. (Callum)
+* Last used nicknames are now stored for accounts. (Callum)
+
 ### 8th June 2017
 * Playtime is now recorded for players. (Callum)
 * Converted accounts system to use MySQL rather than inbuilt MTA accounts. (Callum)
