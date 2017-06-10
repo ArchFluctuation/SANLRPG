@@ -1,4 +1,5 @@
 ### 10th June 2017
+* Added indicator commands. (Callum)
 * Introduced custom permissions system. (Callum)
 * The head of the local player now follows the camera. (Callum)
 * Improved logic for nametag generation. (Callum)
