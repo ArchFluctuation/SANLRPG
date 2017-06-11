@@ -1,3 +1,6 @@
+### 11th June 2017
+* Fixed not being able to leave groups. (Samer)
+
 ### 10th June 2017
 * Added indicator commands. (Callum)
 * Introduced custom permissions system. (Callum)
