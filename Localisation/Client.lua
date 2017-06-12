@@ -78,6 +78,15 @@ L10N = {
 		nl = "Benzine",
 		tr = "Yakıt"
 	},
+	["RESPAWN_HOSPITAL"] = {
+		en_US = "You were taken to %s."
+	},
+	["RESPAWN_REPLENISH_HEALTH"] = {
+		en_US = "There are various places and people that can help replenish lost health."
+	},
+	["RESPAWN_REDUCE_VISITS"] = {
+		en_US = "To reduce your hospital visits."
+	},
 	["INFO_RULES"] = {
 		ar = [[كل اللاعبين يجب أن يتبعوا القوانين في كل الاوقات .. اذا لم يفعلوا ذلك سوف يتم عقابهم بعقاب محدد من قبل مسؤولين السيرفر ، اقصى عقاب هو أن يتم حظرك من السيرفر 
 اذا تم حظرك من السيرفر يمكنك تقديم طلب فك الحظر على http://sanlrpg.net
