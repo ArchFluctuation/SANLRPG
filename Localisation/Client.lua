@@ -54,12 +54,6 @@ L10N = {
 		nl = "*ACCOUNT* Vul een gebruikersnaam en wachtwoord in.",
 		tr = "*HESAP* Lütfen bir kullanıcı adı ve şifre girin."
 	},
-	["REGISTER_DISALLOWED"] = {
-		ar = "استخدام ال ' خير مصرح به في اسامي الحسابات",
-		en_US = "The use of ' is not allowed in account names.",
-		nl = "Het gebruik van ' is niet toegestaan in account namen.",
-		tr = "Kullanıcı adları ' işareti içeremez."
-	},
 	["REGISTER_MISMATCH"] = {
 		ar = "*كلمتك السريه لا تتطابق*حساب"
 		en_US = "*ACCOUNT* Your passwords do not match.",
