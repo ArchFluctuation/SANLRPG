@@ -55,7 +55,7 @@ L10N = {
 		tr = "*HESAP* Lütfen bir kullanıcı adı ve şifre girin."
 	},
 	["REGISTER_MISMATCH"] = {
-		ar = "*كلمتك السريه لا تتطابق*حساب"
+		ar = "*كلمتك السريه لا تتطابق*حساب",
 		en_US = "*ACCOUNT* Your passwords do not match.",
 		nl = "*ACCOUNT* Je wachtwoorden komen niet overeen.",
 		tr = "*HESAP* Şifreleriniz eşleşmiyor."
@@ -65,6 +65,15 @@ L10N = {
 		en_US = "*ACCOUNT* Please fill in all fields.",
 		nl = "*ACCOUNT* Vul alle velden in.",
 		tr = "*HESAP* Lütfen bütün boşlukları doldurun."
+	},
+	["INTRO_WELCOME_LS"] = {
+		en_US = "Welcome to Los Santos International Airport."
+	},
+	["INTRO_JOB"] = {
+		en_US = "The first thing you should do is get a job."
+	},
+	["INTRO_BLIPS"] = {
+		en_US = "Jobs are shown as yellow circles on the map."
 	},
 	["FUEL"] = {
 		ar = "وقود",
