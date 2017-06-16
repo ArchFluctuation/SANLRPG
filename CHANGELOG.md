@@ -1,4 +1,5 @@
 ### 16th June 2017
+* Messages now output to console for references (Thanks Flucado for the suggestion). (Jack)
 * Added /re to respond faster to PMs faster. (Jack)
 * Staff rank now shows in Tab. (Jack)
 * Removed wanted level when a staff member goes on duty. (Jack)
