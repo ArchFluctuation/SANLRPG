@@ -1,4 +1,5 @@
 ### 16th June 2017
+* Chat bubbles now display longer based on length of text. (Jack)
 * National Guard and Mafia no longer get wanted for attacking each other. (Jack)
 * Messages now output to console for references (Thanks Flucado for the suggestion). (Jack)
 * Added /re to respond faster to PMs faster. (Jack)
