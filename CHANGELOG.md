@@ -1,3 +1,8 @@
+### 16th June 2017
+* Staff rank now shows in Tab. (Jack)
+* Removed wanted level when a staff member goes on duty. (Jack)
+* Fixed staff members getting wanted. (Jack)
+
 ### 11th June 2017
 * Fixed not being able to leave groups. (Samer)
 
