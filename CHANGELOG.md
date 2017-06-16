@@ -1,4 +1,5 @@
 ### 16th June 2017
+* Added /re to respond faster to PMs faster. (Jack)
 * Staff rank now shows in Tab. (Jack)
 * Removed wanted level when a staff member goes on duty. (Jack)
 * Fixed staff members getting wanted. (Jack)
