@@ -36,5 +36,26 @@ L10N = {
     },
     ["VEHICLE_RESTRICTED"] = {
         en_US = "*VEHICLE* This vehicle is restricted to %s."
+    },
+    ["PASSWORD_INCORRECT"] = {
+        en_US = "*ACCOUNT* Your password is incorrect."
+    },
+    ["PASSWORD_NOT_EXIST"] = {
+        en_US = "*ACCOUNT* This username does not exist."
+    },
+    ["ACCOUNT_CREATED"] = {
+        en_US = "*ACCOUNT* Account creation successful!"
+    },
+    ["UNEXPECTED_ERROR"] = {
+        en_US = "*ACCOUNT* An unexpected error has occured!"
+    },
+    ["ACCOUNT_EXISTS"] = {
+        en_US = "*ACCOUNT* This username already exists."
+    },
+    ["ACCOUNT_BLOCKED"] = {
+        en_US = "*ACCOUNT* This username is blocked."
+    },
+    ["HELP_KEY"] = {
+        en_US = "*NOTICE* PLEASE PRESS THE F9 KEY FOR HELP."
     }
 }
