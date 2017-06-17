@@ -30,5 +30,11 @@ L10N = {
     ["DUTY"] = {
         en_US = "You are now on %s duty. Resign to change job.",
 	nl = "Je bent nu in dienst als %s. Neem ontslag om je baan te veranderen."
+    },
+    ["VEHICLE_RENTED_BY"] = {
+        en_US = "*VEHICLE* This vehicle is rented by %s."
+    },
+    ["VEHICLE_RESTRICTED"] = {
+        en_US = "*VEHICLE* This vehicle is restricted to %s."
     }
 }
