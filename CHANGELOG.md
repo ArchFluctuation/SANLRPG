@@ -1,3 +1,6 @@
+### 17th June 2017
+* Adverts will now display in the tray notifications when the client is minimized. (Jack)
+
 ### 16th June 2017
 * Chat bubbles now display longer based on length of text. (Jack)
 * National Guard and Mafia no longer get wanted for attacking each other. (Jack)
