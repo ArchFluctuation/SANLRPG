@@ -1,4 +1,5 @@
 ### 18th June 2017
+* Amended which teams can injure and be injured, to reduce DMing. (Callum)
 * Weapon skills are now saved properly. (Callum)
 * Added new wanted/arrest/jail system. (Callum)
 
