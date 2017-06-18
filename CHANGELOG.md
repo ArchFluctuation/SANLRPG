@@ -1,3 +1,7 @@
+### 18th June 2017
+* Weapon skills are now saved properly. (Callum)
+* Added new wanted/arrest/jail system. (Callum)
+
 ### 17th June 2017
 * Adverts will now display in the tray notifications when the client is minimized. (Jack)
 
