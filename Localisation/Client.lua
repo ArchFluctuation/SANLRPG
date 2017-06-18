@@ -258,6 +258,120 @@ A equipa STAFF pode castigar-te por não obedeceres às regras, mesmo que a regr
  
 8) Não ataques a polícia para ficares como 'procurado'
 Não te é permitido atacares um membro da polícia para ficares como 'procurado'. Em vez disso, deves de exercer uma atividade criminal usando as várias ferramentas do 'trabalho'.]]
-		
+	},
+	["INFO_WELCOME"] = {
+		en_US = [[Welcome to SANL RPG! On this F9 menu there is a wide range of information to help you get started. Simply select one of the topics on the left to learn more. We highly encourage you to get involved with the community by visiting the links below.
+
+Website: http://sanlrpg.net
+Discord: http://discord.sanlrpg.net
+Development: http://dev.sanlrpg.net]]
+	},
+	["INFO_JOBS"] = {
+		en_US = [[Getting a job is the most important thing to do. You can find many jobs across San Andreas, represented as yellow circles on the radar. You can resign from your job, or toggle job hunting, by pressing the F3 key.
+
+Police Officer - See Police & EMS tab.
+Paramedic - See Police & EMS tab.
+Firefighter - See Police & EMS tab.
+Taxi Driver - See Civilian tab.
+Delivery Man - See Civilian tab.
+Food Vendor - See Civilian tab.
+Mechanic - See Civilian tab.
+Robber - See Criminal tab.
+Prostitute - See Civilian tab.
+Arms Dealer - See Criminal tab.
+Hobo - See Civilian tab.
+Car Jacker - See Criminal tab.
+Waste Collector - See Civilian tab.
+Pilot - See Civilian tab.
+Trucker - See Civilian tab.
+News Reporter - See Civilian tab.
+Train Driver - See Civilian tab.]]
+	},
+	["INFO_POLICE_EMS"] = {
+		en_US = [[POLICE OFFICER
+Police officers can arrest wanted players by hitting them with the nightstick or carjacking them. A player is wanted if they have a number in square brackets at the end of their nametag. For example, "[SANL]Zer0_Cool [3]". Once the player is arrested, transport them to the nearest police station and they will be jailed.
+
+PARAMEDIC
+Paramedics can heal injured players by using the spraycan weapon. Injured players can also enter your Ambulance while you are driving it, and they will be healed.
+
+FIREFIGHTER
+Firefighters can extinguish fires across San Andreas, caused by exploding vehicles. You must use the Fire Extinguisher weapon to extinguish the fire.]]
+	},
+	["INFO_CRIMINALS"] = {
+		en_US = [[CAR JACKER
+Carjackers compete to steal the vehicle represented by the pink 'C' blip on the map. The first one to deliver it to a garage (checkered flag blip on the map) will win a reward.
+
+ROBBER
+Robbers can grab a vehicle and drive to designated houses, in order to rob them.
+
+BANK ROBBERY
+Five or more criminals can rob the Bank of Los Santos by going inside and standing in the red marker. The criminals must defend themselves against the Police for six minutes, and then escape with their reward.]]
+	},
+	["INFO_CIVILIANS"] = {
+		en_US = [[Food Vendor (LS Beach Pier)
+Using either your own vehicle (only Hotdog and Mr Whoopee), or one of the Food Vendor vehicles, drive around San Andreas and sell food to other players.
+
+Taxi Driver (South-West of Pershing Square)
+Taxi Drivers pick up and drive other players across the map, to their destination.
+
+Delivery Man (LS Industrial)
+Using either your own vehicle, or one of the delivery vehicles, drive around San Andreas making deliveries.
+
+Mechanic (LS Modshop)
+Stand near a vehicle that needs to be repaired, and with your fist press aim (right-click). If a damaged vehicle is close enough, you'll see a progress bar. When the repairs are complete you will be paid.
+
+Prostitute (LS Alhambra)
+Prostitutes can set their fees with /sexcost. You can then begin looking for clients to have sex with. Get in their vehicle, and if they accept, you will be paid and begin having sex with them and your health will return to 100%.
+
+Hobo (LS Canal)
+A hobo simply finds money, food, and weapons while they walk around San Andreas looking scruffy. Use /sleep to regain health.
+
+Waste Collector (LS Industrial Sector)
+Grab a Trashmaster and drive around Los Santos, stopping at pickup points where you will collect trash. You can return to the dump at any time and get paid for the amount of trash you've collected so far.
+
+Pilot (LS Airport)
+Pilots fly peds between the San Andreas airports for money.
+
+Trucker (LS Docks)
+Truckers can grab a Truck and attach a trailer, and then drive around San Andreas delivering petrol to gas stations.
+
+News Reporter (LS TV Station)
+News reporters makes money by being the first to photograph something. When somebody dies, if you're the first to photograph the killer you'll be paid. Also you can make money from photographing certain people who come up as a Blue Skull blip like rich people, or a certain vehicle may be involved in a story which needs photographing.
+
+Train Driver (LS Unity Station)
+Train Drivers can drive a train around the San Andreas map, stopping at train stations along the way, to be paid.]]
+	},
+	["INFO_COMMANDS"] = {
+		en_US = [[PLAYER COMMANDS:
+/report - Reports a person who is cheating or breaking the rules.
+/give [player] [amount] - Gives a player a certain ammount of money.
+/sell - Used to sell drugs (Criminals only).
+/taxi - Alerts Taxi Drivers of your location.
+/medic - Alerts Paramedics of your location.
+/police [message] - Alerts the Police of your location.
+/mech - Alerts Mechanics of your location.
+/showvehicles - Makes nearby vehicles show up as small blip.
+/LocalChat - Used for talking to people near you. (This is automatically bound to the "U" key for quick access)
+/localme OR /lme - The /me system which will only be visible for local people (People near you).
+
+POLICE COMMANDS:
+/lec [message] - Communicate with all law enforcement.
+/release [player] - Used if you want to release a player you have arrested.
+
+BINDS:
+F1 - Display information about the vehicles you own.
+F2 - Display list of animations to use.
+F3 - Display your employment status and info.
+F4 - Display the drug interface, for taking drugs (can also use /drugs).
+F5 - Police computer (police only).
+F8 - Opens the MTA Client console.
+F9 - Display this information menu.
+F11 - Opens the map of San Andreas.
+F12 - Takes a screenshot (open F8 to see the save location).
+U - Local chat (sends message only to nearby players).
+
+HOW TO BIND:
+/bind [key] [command] [...]
+For example: /bind b say test]]
 	}
 }
