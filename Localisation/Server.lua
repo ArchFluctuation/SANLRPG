@@ -29,7 +29,7 @@ L10N = {
     },
     ["DUTY"] = {
         en_US = "You are now on %s duty. Resign to change job.",
-	nl = "Je bent nu in dienst als %s. Neem ontslag om je baan te veranderen."
+    	nl = "Je bent nu in dienst als %s. Neem ontslag om je baan te veranderen."
     },
     ["VEHICLE_RENTED_BY"] = {
         en_US = "*VEHICLE* This vehicle is rented by %s."
@@ -57,5 +57,20 @@ L10N = {
     },
     ["HELP_KEY"] = {
         en_US = "*NOTICE* PLEASE PRESS THE F9 KEY FOR HELP."
+    },
+    ["JOB_HINT_NATIONAL_GUARD"] = {
+        en_US = "*JOB* Hunt down and kill players in the 'Mafia' team."
+    },
+    ["JOB_HINT_MAFIA"] = {
+        en_US = "*JOB* Hunt down and kill players in the 'National Guard' team."
+    },
+    ["JOB_HINT_POLICE_OFFICER"] = {
+        en_US = "*JOB* Arrest wanted players (press the F9 key for more information)."
+    },
+    ["JOBS_EMPLOYMENT_START"] = {
+        en_US = "*EMPLOYMENT* You are now employed as a %s!"
+    },
+    ["JOBS_EMPLOYMENT_RESIGN"] = {
+        en_US = "*EMPLOYMENT* You have resigned as a %s.";
     }
 }
