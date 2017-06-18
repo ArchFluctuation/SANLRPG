@@ -72,5 +72,11 @@ L10N = {
     },
     ["JOBS_EMPLOYMENT_RESIGN"] = {
         en_US = "*EMPLOYMENT* You have resigned as a %s.";
+    },
+    ["CURRENT_PEAK"] = {
+        en_US = "*PEAK* The current player peak is %s players."
+    },
+    ["NEW_PEAK"] = {
+        en_US = "*PEAK* A new player peak of %s players has been reached!"
     }
 }
