@@ -5,7 +5,7 @@ L10N = {
 		es = "Nombre de usuario:",
 		fr = "Nom d'utilisateur:",
 		nl = "Gebruikersnaam:",
-		pt = "Nome de utilizador:",
+		pt_BR = "Nome de usuário:",
 		tr = "Kullanıcı Adı:"
 	},
 	["PASSWORD"] = {
@@ -14,7 +14,7 @@ L10N = {
 		es = "Contraseña:",
 		fr = "Mot de passe:",
 		nl = "Wachtwoord:",
-		pt = "Senha:",
+		pt_BR = "Senha:",
 		tr = "Şifre:"
 	},
 	["CONFIRM"] = {
@@ -23,7 +23,7 @@ L10N = {
 		es = "Confirmar:",
 		fr = "Confirmer:",
 		nl = "Bevestigen:",
-		pt = "Confirmação:",
+		pt_BR = "Confirmar:",
 		tr = "Onayla:"
 	},
 	["REMEMBER_PASSWORD"] = {
@@ -32,7 +32,7 @@ L10N = {
 		es = "Recordar mi contraseña",
 		fr = "Mémoriser mon mot de passe",
 		nl = "Herinner mijn wachtwoord",
-		pt = "Guardar a minha password",
+		pt_BR = "Lembrar minha senha",
 		tr = "Şifremi hatırla"
 	},
 	["LOGIN"] = {
@@ -41,7 +41,7 @@ L10N = {
 		es = "Iniciar sesión",
 		fr = "Connexion",
 		nl = "Inloggen",
-		pt = "Iniciar Sessão",
+		pt_BR = "Login",
 		tr = "Giriş"
 	},
 	["REGISTER"] = {
@@ -50,7 +50,7 @@ L10N = {
 		es = "Registrarse",
 		fr = "Créer un compte",
 		nl = "Registreren",
-		pt = "Registar-se",
+		pt_BR = "Registrar-se",
 		tr = "Kayıt Ol"
 	},
 	["CANCEL"] = {
@@ -59,7 +59,7 @@ L10N = {
 		es = "Cancelar",
 		fr = "Annuler",
 		nl = "Annuleren",
-		pt = "Cancelar",
+		pt_BR = "Cancelar",
 		tr = "İptal"
 	},
 	["LOGIN_FIELDS"] = {
@@ -67,7 +67,7 @@ L10N = {
 		en_US = "*ACCOUNT* Please enter a username and password.",
 		es = "*CUENTA* Porfavor ingrese un nombre de usuario y contraseña.",
 		nl = "*ACCOUNT* Vul een gebruikersnaam en wachtwoord in.",
-		pt = "*CONTA* Por favor insere um nome de utilizador e senha.",
+		pt_BR = "*CONTA* Por favor insira um nome de usuário e senha.",
 		tr = "*HESAP* Lütfen bir kullanıcı adı ve şifre girin."
 	},
 	["REGISTER_MISMATCH"] = {
@@ -75,7 +75,7 @@ L10N = {
 		en_US = "*ACCOUNT* Your passwords do not match.",
 		es = "*CUENTA* Tus contraseñas no coinciden.",
 		nl = "*ACCOUNT* Je wachtwoorden komen niet overeen.",
-		pt = "*CONTA* A tua senha não é correspondida.",
+		pt_BR = "*CONTA* Suas senhas não estão iguais.",
 		tr = "*HESAP* Şifreleriniz eşleşmiyor."
 	},
 	["REGISTER_FIELDS"] = {
@@ -83,40 +83,46 @@ L10N = {
 		en_US = "*ACCOUNT* Please fill in all fields.",
 		es = "*CUENTA* Porfavor rellena todos los campos.",
 		nl = "*ACCOUNT* Vul alle velden in.",
-		pt = "*CONTA* Por favor preenche todos os campos.",
+		pt_BR = "*CONTA* Favor preencher todos os campos.",
 		tr = "*HESAP* Lütfen bütün boşlukları doldurun."
 	},
 	["INTRO_WELCOME_LS"] = {
 		en_US = "Welcome to Los Santos International Airport.",
-		nl = "Welkom in Los Santos' Internationale Vliegveld."
+		nl = "Welkom in Los Santos' Internationale Vliegveld.",
+		pt_BR = "Bem-vindo ao Aeroporto Internacional de Los Santos."
 	},
 	["INTRO_JOB"] = {
 		en_US = "The first thing you should do is get a job.",
-		nl = "Het eerste dat je moet doen is een baan vinden."
+		nl = "Het eerste dat je moet doen is een baan vinden.",
+		pt_BR = "A primeira coisa que deveria fazer é arranjar um emprego."
 	},
 	["INTRO_BLIPS"] = {
 		en_US = "Jobs are shown as yellow circles on the map.",
-		nl = "Beroepen worden aangegeven met gele cirkels op de map."
+		nl = "Beroepen worden aangegeven met gele cirkels op de map.",
+		pt_BR = "Empregos aparecem no mapa como círculos amarelos."
 	},
 	["FUEL"] = {
 		ar = "وقود",
 		en_US = "Fuel",
 		es = "Gasolina",
 		nl = "Benzine",
-		pt = "Combustível",
+		pt_BR = "Combustível",
 		tr = "Yakıt"
 	},
 	["RESPAWN_HOSPITAL"] = {
 		en_US = "You were taken to %s.",
-		nl = "Je bent naar %s gebracht."
+		nl = "Je bent naar %s gebracht.",
+		pt_BR = "Você foi levado para o %s."
 	},
 	["RESPAWN_REPLENISH_HEALTH"] = {
 		en_US = "There are various places and people that can help replenish lost health.",
-		nl = "Er zijn verschillende plaatsen en mensen die je kunnen helpen met het bijvullen van je gezondheid."
+		nl = "Er zijn verschillende plaatsen en mensen die je kunnen helpen met het bijvullen van je gezondheid.",
+		pt_BR = "Há vários lugares e pessoas que podem ajudar a recuperar saúde perdida."
 	},
 	["RESPAWN_REDUCE_VISITS"] = {
 		en_US = "To reduce your hospital visits.",
-		nl = "Om je ziekenhuis bezoeken te verminderen."
+		nl = "Om je ziekenhuis bezoeken te verminderen.",
+		pt_BR = "Para reduzir suas visitas ao hospital."
 	},
 	["INFO_RULES"] = {
 		ar = [[كل اللاعبين يجب أن يتبعوا القوانين في كل الاوقات .. اذا لم يفعلوا ذلك سوف يتم عقابهم بعقاب محدد من قبل مسؤولين السيرفر ، اقصى عقاب هو أن يتم حظرك من السيرفر 
@@ -230,34 +236,33 @@ Staff leden kunnen je een straf geven voor het breken van regels, zelfs als de r
  
 8) VAL DE POLITIE NIET AAN OM GEZOCHT TE WORDEN
 Je bent niet toegestaan om iemand in het politie team aan te vallen zodat je gezocht word. In plaats daarvan, je zou een criminele activiteit moeten uitvoeren door de gegeven mogelijkheden te gebruiken.]],
-		pt = [[Todos os jogadores devem seguir as regras em todas as alturas, e se não o fizerem serão sujeitos a uma punição por parte da equipa STAFF. A punição de maior valor será um ban. No caso de estares banido poderás apelar ao teu ban no fórum (http://sanlrpg.net).
- 
-Atenção que ninguém tem de saber a tua senha, nem mesmo os membros da equipa STAFF. Contudo, o teu email poderá ser usado para se recuperar a tua conta.
- 
-1) DEATHMATCH não é permitido
-Deathmatching (DMing), também conhecido como Random Deathmatching (RDMing), consiste em matar outro jogador sem nenhuma razão. Se um polícia matasse um criminoso procurado, isto não seria visto como DMing. Contudo, se um piloto matasse outro piloto, isto seria DMing. DMing é estritamente proibido em qualquer situação.
- 
-2) Fala Inglês no chat principal ou chat de equipa
-Deves falar Inglês no chat principal e no chat de equipa. Contudo, podes falar a tua própria língua nos tipos de chat restantes, incluindo o chat local.
- 
-3) Não uses nada para conseguires uma vantagem injusta
-Não é permitido usares nada que te dê uma vantagem injusta sobre outros jogadores (como cheats ou hacks), ou que te permita explorar os scripts do servidor.
- 
-4) Não insultes/perturbes
-Qualquer forma de insulto/bullying ou perturbo (como por exemplo, ser chato ou destruir coisas de propósito) não é permitido.
-Humor negro é permitido mas apenas se nenhuma outra pessoa ficar ofendida.
- 
-5) Não incomodes/sigas
-Não te é permitido seguires ou contactares as outras pessoas constantemente se elas te tiverem pedido para não o fazeres. Também não te é permitido mandares várias mensagens repetitivas aos membros da equipa STAFF.
- 
-6) Não assumas a identidade de outra pessoa
-Não te é permitido assumires a identidade de outra pessoa (mesmo que a pessoa jogue noutro servidor), e, mais importante ainda, não te é permitido assumires a identidade de um membro da equipa STAFF.
- 
-7) Segue as instruções da equipa STAFF
-A equipa STAFF pode castigar-te por não obedeceres às regras, mesmo que a regra não esteja oficialmente listada aqui. Deves de cumprir quaisquer instruções que um membro da STAFF te dê enquanto o mesmo estiver a exercer os seus deveres oficiais. A equipa STAFF também pode escolher exercer regras que não estejam listadas oficialmente se for mesmo necessário.
- 
-8) Não ataques a polícia para ficares como 'procurado'
-Não te é permitido atacares um membro da polícia para ficares como 'procurado'. Em vez disso, deves de exercer uma atividade criminal usando as várias ferramentas do 'trabalho'.]]
+		pt_BR = [[Todos os jogadores devem sempre seguir as regras, caso contrário poderão ser punidos conforme decisão da equipe de administração. A punição final é o banimento de sua conta. Caso você seja banido, você pode contestar no fórum (http://sanlrpg.net).
+
+Atente-se para o fato de que NINGUÉM precisa saber de sua senha, incluindo membros de nossa equipe. Porém, seu endereço de e-mail pode ser usado ao recuperar sua conta.
+
+1) NÃO FAÇA DEATHMATCH
+O Deathmatch (DM) ocorre quando você mata outro jodador sem razão alguma. Se um policial mata um criminoso procurado, NÃO seria deathmatch. Porém, se um piloto de aviões matasse outro pilot, seria considerado Deathmatch. Deathmatch não é permitido sob qualquer circumstância.
+
+2) FALE APENAS INGLÊS NOS CHATS PRINCIPAL E DE TIME
+Você deve falar inglês nos chats principal e de time. Porém, você pode falar sua lingua em qualquer outro chat, inclusive o local.
+
+3) NÃO SE UTILIZE DE NADA PARA GANHAR UMA VANTAGEM INJUSTA
+Não é permitido o use de qualquer coisa que lhe dê uma vantagem injusta sobre outro jogador (como trapaças, trainers, e hacks), ou que o permita abusar de erros em nossos scripts.
+
+4) NÃO XINGAR OU IRRITAR DE PROPÓSITO
+Qualquer forma de insulto ou brincadeira de mau gosto (como ser irritante, ou destruir coisas de propósito) não é permitida. Humor negro é permitido contanto que nenhum outro jogador sinta-se ofendido.
+
+5) NÃO PERSIGA NINGUÉM
+Você não deve contatar ou seguir jogadores se eles deixarem claro que não querem que você faça isso. Você também não deve irritar nossa equipe com mensagens repetitivas.
+
+6) NÃO FINJA SER QUEM NÃO É
+Você não deve fingir ser outro jogador (mesmo que joguem em outro servidor), e principalmente não deve fingir ser um membro de nossa equipe.
+
+7) SIGA AS INSTRUÇÕES DE NOSSA EQUIPE
+Você pode ser punido por quebrar uma regra, mesmo que não esteja listada oficialmente aqui. Você deve também seguir quaisquer informações dadas a você por um membro da equipe enquanto realizam suas tarefas oficias. Nossa equipe pode também optar por não reforçar as regras oficialmente listadas, quando apropriado.
+
+8) NÃO ATAQUE A POLÍCIA APENAS PARA SER PROCURADO
+Você não deve atacar ninguém no time Policial apenas para se tornar procurado. Ao invés disso, cometa um crime que faça parte do jogo.]]
 	},
 	["INFO_WELCOME"] = {
 		en_US = [[Welcome to SANL RPG! On this F9 menu there is a wide range of information to help you get started. Simply select one of the topics on the left to learn more. We highly encourage you to get involved with the community by visiting the links below.
@@ -269,7 +274,12 @@ Development: http://dev.sanlrpg.net]],
 
  Website: http://sanlrpg.net
  Discord: http://discord.sanlrpg.net
- Development: http://dev.sanlrpg.net]]
+ Development: http://dev.sanlrpg.net]],
+		pt_BR = [[Bem-vindo ao SANL RPG! Neste menu F9 há uma variedade de informações para ajudá-lo a começar. Simplesmente selecione um dos assuntos à esquerda para aprender mais. Encoragamos você a se envolver com a comunidade, visitando os links abaixo.
+
+Website: http://sanlrpg.net
+Discord: http://discord.sanlrpg.net
+Desenvolvimento: http://dev.sanlrpg.net]]
 	},
 	["INFO_JOBS"] = {
 		en_US = [[Getting a job is the most important thing to do. You can find many jobs across San Andreas, represented as yellow circles on the radar. You can resign from your job, or toggle job hunting, by pressing the F3 key.
@@ -309,7 +319,26 @@ Afval Verzamelaar - Bekijk Burgerlijk tab.
 Piloot - Bekijk Burgerlijk tab.
 Vrachtwagen Chauffeur - Bekijk Burgerlijk tab.
 Verslaggever - Bekijk Burgerlijk tab.
-Machinist - Bekijk Burgerlijk tab.]]
+Machinist - Bekijk Burgerlijk tab.]],
+		pt_BR = [[Arranjar um emprego é a coisa mais importante a fazer. Você pode encontrar vários empregos por San Andreas, representados por círculos amarelos no mapa. Você pode se demitir, ou alternar a procura de emprego, pressionando a tecla F3.
+
+Policial - Veja a aba de Polícia & Emergência.
+Paramédico - Veja a aba de Polícia & Emergência.
+Bombeiro - Veja a aba de Polícia & Emergência.
+Taxista - Veja a aba de Civis.
+Entregador - Veja a aba de Civis.
+Vendedor de Comida - Veja a aba de Civis.
+Mecânico - Veja a aba de Civis.
+Ladrão de Casas - Veja a aba de Criminosos.
+Prostituta - Veja a aba de Civis.
+Traficante de Armas - Veja a aba de Criminosos.
+Mendigo - Veja a aba de Civis.
+Ladrão de Carros - Veja a aba de Criminosos.
+Lixeiro - Veja a aba de Civis.
+Piloto de Aviões - Veja a aba de Civis.
+Caminhoneiro - Veja a aba de Civis.
+Jornalista - Veja a aba de Civis.
+Maquinista - Veja a aba de Civis.]]
 	},
 	["INFO_POLICE_EMS"] = {
 		en_US = [[POLICE OFFICER
@@ -327,7 +356,15 @@ GENEESKUNDIGE
 Geneeskundigen kunnen gewonde spelers genezen door een spuitbus te gebruiken. Gewonde spelers kunnen ook in de ambulance gaan terwijl jij het bestuurd, zodat ze genezen kunnen worden.
 
 BRANDWEERMAN
-Brandweerlieden kunnen branden, veroorzaakt door ontplofte voertuigen, door heel San Andreas uitblussen. Je moet de Brandblusser gebruiken om het vuur te doven.]]
+Brandweerlieden kunnen branden, veroorzaakt door ontplofte voertuigen, door heel San Andreas uitblussen. Je moet de Brandblusser gebruiken om het vuur te doven.]],
+		pt_BR = [[POLICIAL
+Policiais podem prender jogadores procurados ao acertá-los com um cassetete ou ao tirá-los de seu veículo. Um jogador é procurado se possui um número dentro de colchetes ao final de seu nome. Por exemplo, "[SANL]Zer0_Cool [3]". Uma vez que o jogador esteja preso, leve-o para a delegacia mais próxima e eles irão para a cadeia.
+
+PARAMÉDICO
+Paramédicos podem curar jogadores feridos utilizando o spray de tinta. Jogadores feridos podem também entrar em sua Ambulância enquanto você a dirige, e eles serão curados.
+
+BOMBEIRO
+Bombeiros podem apagar incêndios por San Andreas, causados por veículos que explodiram. Você deve usar o Extintor de Incêndio para apagar os fogos.]]
 
 	},
 	["INFO_CRIMINALS"] = {
@@ -346,7 +383,15 @@ OVERVALLER
 Overvallers kunnen een voertuig pakken en naar toegewezen huizen rijden om ze te kunnen overvallen.
 
 BANK OVERVALLER
-Vijf of meer criminelen kunnen de bank van Los Santos overvallen door hier naar binnen te gaan en in de rode marker te gaan staan. De criminelen moeten zichzelf beschermen tegen de politie voor zes minuten, en dan ontsnappen met hun beloning.]]
+Vijf of meer criminelen kunnen de bank van Los Santos overvallen door hier naar binnen te gaan en in de rode marker te gaan staan. De criminelen moeten zichzelf beschermen tegen de politie voor zes minuten, en dan ontsnappen met hun beloning.]],
+		pt_BR = [[LADRÃO DE CARROS
+Ladrões de carros competem para roubar o veículo representado por um 'C' rosa no mapa. O primeiro a entregá-lo para a garagem (bandeira xadrez no mapa) recebe uma recompensa.
+
+LADRÃO DE CASAS
+Ladrões de casas podem entrar em um veículo e dirigir até casas designadas a eles para assaltá-las.
+
+ASSALTO AO BANCO
+Cinco ou mais criminosos podem roubar o banco de Los Santos se entrarem e permanecerem dentro do círculo vermelho. Os criminosos devem se defender da polícia por seis minutos, e então escapar pela sua recompensa.]]
 	},
 	["INFO_CIVILIANS"] = {
 		en_US = [[Food Vendor (LS Beach Pier)
@@ -412,7 +457,39 @@ Verslaggever (LS TV Station)
 Verslaggevers verdienen geld door de eerste te zijn die iets fotografeert. Als er iemand dood gaat en jij de eerste bent die een foto maakt van de moordenaar, zul je betaald worden. Je kunt ook geld verdienen door door bepaalde mensen te fotograferen die aangegeven worden met een blauw skelethoofd zoals rijke mensen, of een bepaald voertuig is betrokken in een verhaal waar een foto van nodig is.
 
 Machinist (LS Unity Station)
-Machinisten kunnen in een trein door heel San Andreas rijden, en stoppen bij passerende treinstations om betaald te worden.]]
+Machinisten kunnen in een trein door heel San Andreas rijden, en stoppen bij passerende treinstations om betaald te worden.]],
+		pt_BR = [[Vendedor de comida (Pier na praia de Los Santos)
+Usando um de seus próprios veículos (apenas 'Hotdog' e 'Mr Whoopee'), ou um dos veículos de vendedor de comida, dirija por San Andreas vendendo comida a outros jogadores.
+
+Taxista (Sudoeste de Pershing Square)
+Taxistas levam outros jogadores pelo mapa até seus destinos.
+
+Entregador (Los Santos Industrial)
+Utilizando seu próprio veículo, ou um dos veículos de entrega, dirija por San Andreas fazendo entregas.
+
+Mecânico (Garagens de Modificações)
+Pare próximo a um veículo que necessite de reparos, e com as mãos vazias pressione o botão de mira (mouse direito). Se o veículo estiver próximo o bastante, você verá uma barra de progresso. Quando os reparos forem completos, você receberá seu pagamento.
+
+Prostituta (Clube Alhambra)
+Prostitutas podem ajustar seus preços com /sexcost. Você pode então procurar por clientes para transar. Entre no veículo do cliente, e se ele aceitar, você será pago e fará sexo com ele, e sua vida voltará a 100%.
+
+Mendigo (Canal de Los Santos)
+Um mendigo simplesmente encontra dinheiro, comida, e armas enquanto vagabundeiam por San Andreas. Use /sleep para dormir e recuperar vida.
+
+Lixeiro (Los Santos Industrial)
+Pegue um caminhão de lixo e dirija-o por Los Santos, parando em pontos de coleta onde você carregará o caminhão com lixo. Você pode retornar ao lixão a qualquer momento para ser pago pela quantidade de lixo que coletou até então.
+
+Piloto de Aviões (Aeroportos)
+Pilotos de aviões levam pedrestes entre os aeroportos de San Andreas por dinheiro.
+
+Caminhoneiro (Docas de Los Santos)
+Caminhoneiros podem levar trailers com seus caminhões, entregando combustível a postos de gasolina em San Andreas.
+
+Jornalista (Estação de TV de Los Santos)
+Jornalistas ganham dinheiro ao serem os primeiros a fotografarem algo. Quando alguém morre, se você for o primeiro a fotografar o assassino, você será pago. Você pode também ganhar dinheiro fotografando certas pessoas que aparecem como uma caveira azul em seu mapa, como pessoas ricas. Ou ainda um veículo envolvido em algum incidente, e que precise ser fotografado.
+
+Maquinista (Estações de Trem)
+Maquinistas dirigem trens pelo mapa de San Andreas, parando nas estações ao longo do caminho para serem pagos.]]
 	},
 	["INFO_COMMANDS"] = {
 		en_US = [[PLAYER COMMANDS:
@@ -445,6 +522,37 @@ U - Local chat (sends message only to nearby players).
 
 HOW TO BIND:
 /bind [key] [command] [...]
-For example: /bind b say test]]
+For example: /bind b say test]],
+		pt_BR = [[COMANDOS GERAIS:
+/report - Para reportar uma pessoa que esteja trapaceando ou quabrando as regras.
+/give [jogador] [quantia] - Dá a um jogador a quantia de dinheiro especificada.
+/sell - Usado por criminosos para vender drogas.
+/taxi - Alerta taxistas sobre sua localização.
+/medic - Alerta paramédicos sobre sua localização.
+/police [mensagem] - Alerta a polícia sobre sua localização.
+/mech - Alerta mecânicos sobre sua localização.
+/showvehicles - Mostra veículos próximos no mapa como ícones pequenos.
+/LocalChat - Utilizado para falar apenas com jogadores próximos. (Automaticamente atrelado à tecla "U" para rápido acesso.)
+/localme OR /lme - O sistema de ações (/me) porém apenas para pessoas próximas a você.
+
+COMANDOS POLICIAIS:
+/lec [mensagem] - Comunique-se com todos os outros oficiais da lei.
+/release [jogador] - Para soltar um criminoso que esteja preso sob sua guarda.
+
+TECLAS DE ATALHO:
+F1 - Mostrar informações sobre os veículos que possui.
+F2 - Mostrar lista de animações que pode utilizar.
+F3 - Mostrar suas informações de emprego.
+F4 - Mostrar a interface de drogas (Pode-se também usar /drugs).
+F5 - Computador da polícia (Restrito a policiais)
+F8 - Abre o console do MTA.
+F9 - Mostra este menu de ajuda.
+F11 - Abre o mapa de San Andreas.
+F12 - Tira um print de sua tela (Abra o console para ver onde foi salvo).
+U - Chat local (envia mensagens apenas para jogadores próximos).
+
+COMO CRIAR UM ATALHO:
+/bind [tecla] [comando] [...]
+Por exemplo: /bind b say teste]]
 	}
 }
