@@ -264,7 +264,12 @@ Não te é permitido atacares um membro da polícia para ficares como 'procurado
 
 Website: http://sanlrpg.net
 Discord: http://discord.sanlrpg.net
-Development: http://dev.sanlrpg.net]]
+Development: http://dev.sanlrpg.net]],
+		nl = [[Welkom in SANL RPG! In dit F9 menu is er een grote selectie aan informatie beschikbaar die je kan helpen om te beginnen. Selecteer eenvoudig een van de onderwerpen links om er meer over te leren. We moedigen het sterk aan om betrokken te raken bij de community door de onderstaande links te bezoeken.
+
+ Website: http://sanlrpg.net
+ Discord: http://discord.sanlrpg.net
+ Development: http://dev.sanlrpg.net]]
 	},
 	["INFO_JOBS"] = {
 		en_US = [[Getting a job is the most important thing to do. You can find many jobs across San Andreas, represented as yellow circles on the radar. You can resign from your job, or toggle job hunting, by pressing the F3 key.
@@ -285,7 +290,26 @@ Waste Collector - See Civilian tab.
 Pilot - See Civilian tab.
 Trucker - See Civilian tab.
 News Reporter - See Civilian tab.
-Train Driver - See Civilian tab.]]
+Train Driver - See Civilian tab.]],
+		nl = [[Het krijgen van een baan is het belangrijkste om te doen. Je kunt vele banen vinden in San Andreas, aangegeven als gele cirkels op de radar. Je kunt ook ontslag nemen van je baan, of banenjacht aan/uitzetten, door op de F3 toets te drukken.
+
+Politie Agent - Bekijk de Politie & SD tab.
+Geneeskundige - Bekijk de Politie & SD tab.
+Brandweerman - Bekijk de Politie & SD tab.
+Taxi Bestuurder - Bekijk Burgerlijk tab.
+Bezorger - Bekijk Burgerlijk tab.
+Voedselverkoper - Bekijk Burgerlijk tab.
+Monteur - Bekijk Burgerlijk tab.
+Overvaller - Bekijk Crimineel tab.
+Prostituee - Bekijk Burgerlijk tab.
+Wapenhandelaar - Bekijk Crimineel tab.
+Dakloze - Bekijk Burgerlijk tab.
+Auto Dief - Bekijk Crimineel tab.
+Afval Verzamelaar - Bekijk Burgerlijk tab.
+Piloot - Bekijk Burgerlijk tab.
+Vrachtwagen Chauffeur - Bekijk Burgerlijk tab.
+Verslaggever - Bekijk Burgerlijk tab.
+Machinist - Bekijk Burgerlijk tab.]]
 	},
 	["INFO_POLICE_EMS"] = {
 		en_US = [[POLICE OFFICER
@@ -295,7 +319,16 @@ PARAMEDIC
 Paramedics can heal injured players by using the spraycan weapon. Injured players can also enter your Ambulance while you are driving it, and they will be healed.
 
 FIREFIGHTER
-Firefighters can extinguish fires across San Andreas, caused by exploding vehicles. You must use the Fire Extinguisher weapon to extinguish the fire.]]
+Firefighters can extinguish fires across San Andreas, caused by exploding vehicles. You must use the Fire Extinguisher weapon to extinguish the fire.]],
+		nl = [[POLITIE AGENT
+Politie agenten kunnen gezochte spelers arresteren door ze te raken met een knuppel of door ze uit hun auto te sleuren. Een speler word gezocht als ze een nummer tussen vierkante haakjes aan het einde van hun naam hebben. Bijvoorbeeld, "[SANL]Zer0_Cool [3]". Als de speler gearresteerd is, moet je hem vervoeren naar het dichtsbijzijnde politie bureau, ze zullen hier dan in hechtenis gaan.
+
+GENEESKUNDIGE
+Geneeskundigen kunnen gewonde spelers genezen door een spuitbus te gebruiken. Gewonde spelers kunnen ook in de ambulance gaan terwijl jij het bestuurd, zodat ze genezen kunnen worden.
+
+BRANDWEERMAN
+Brandweerlieden kunnen branden, veroorzaakt door ontplofte voertuigen, door heel San Andreas uitblussen. Je moet de Brandblusser gebruiken om het vuur te doven.]]
+
 	},
 	["INFO_CRIMINALS"] = {
 		en_US = [[CAR JACKER
@@ -306,6 +339,14 @@ Robbers can grab a vehicle and drive to designated houses, in order to rob them.
 
 BANK ROBBERY
 Five or more criminals can rob the Bank of Los Santos by going inside and standing in the red marker. The criminals must defend themselves against the Police for six minutes, and then escape with their reward.]]
+		nl = [[AUTO DIEF
+Auto dieven kunnen voertuigen, aangegeven met een roze 'C' op de map, stelen. De eerste die het voertuig naar een garage (vlag blip op de map) vervoert zal een beloning winnen.
+
+OVERVALLER
+Overvallers kunnen een voertuig pakken en naar toegewezen huizen rijden om ze te kunnen overvallen.
+
+BANK OVERVALLER
+Vijf of meer criminelen kunnen de bank van Los Santos overvallen door hier naar binnen te gaan en in de rode marker te gaan staan. De criminelen moeten zichzelf beschermen tegen de politie voor zes minuten, en dan ontsnappen met hun beloning.]]
 	},
 	["INFO_CIVILIANS"] = {
 		en_US = [[Food Vendor (LS Beach Pier)
@@ -339,7 +380,39 @@ News Reporter (LS TV Station)
 News reporters makes money by being the first to photograph something. When somebody dies, if you're the first to photograph the killer you'll be paid. Also you can make money from photographing certain people who come up as a Blue Skull blip like rich people, or a certain vehicle may be involved in a story which needs photographing.
 
 Train Driver (LS Unity Station)
-Train Drivers can drive a train around the San Andreas map, stopping at train stations along the way, to be paid.]]
+Train Drivers can drive a train around the San Andreas map, stopping at train stations along the way, to be paid.]],
+		nl = [[Voedselverkoper (LS Strand Pier)
+Gebruik je eigen voertuig (alleen Hotdog en Mr. Whoopee) of een van de voedselverkoper voertuigen, rij rond in San Andreas en verkoop voedsel aan andere spelers. 
+
+Taxi Bestuurder (Zuid-Westen van Pershing Square)
+Taxi Bestuurders halen spelers op over de hele map en brengen ze naar hun bestemming.
+
+Bezorger (LS Industrie)
+Gebruik je eigen voertuig of een van de bezorgingsvoertuigen, rij rond in heel San Andreas en maak bezorgingen.
+
+Monteur (LS Modshop)
+Ga in de buurt van een voertuig staan dat gerepareerd moet worden, en richt op het voertuig met je blote vuist (rechter muisknop). Als een beschadigd voertuig dichtbij genoeg is zul je een voortgang balk zien. Wanneer de reparaties voltooid zijn zul je betaald worden.
+
+Prostituee (LS Alhambra)
+Prostituees kunnen de kosten bepalen met /sexcost. Je kunt dan beginnen met het zoeken naar klanten om seks mee te hebben. Stap in hun oertuig, en als ze het ccepteren, zul je betaald worden en beginnen met het hebben van seks en je gezondheid zal terug naar 100% gaan.
+
+Dakloze (LS Kanaal)
+Een dakloze zoekt eenvoudig geld, voedsel en wapens terwwijl ze rondlopen in San Andreas en er smerig uitzien. Gebruik /sleep om gezondheid te verkrijgen.
+
+Afval Verzamelaar (LS Industriele Sector)
+Neem een Trashmaster en rij rond in Los Santos, stop bij alle ophaalpunten waar je afval zult verzamelen. Je kunt op elk moment terugkeren naar de dump en betaald krijgen voor het aantal afval dat je zover hebt verzameld.
+
+Piloot (LS Vliegveld)
+Piloten vliegen peds van vliegveld naar vliegveld in San Andreas voor geld.
+
+Vrachtwagen Chauffeur (LS Haven)
+Vrachtwagenchauffeurs pakkken een vrachtwagen, verbinden hier een trailer aan, rijden rond in San Andreas en bezorgen benzine bij pompstations. 
+
+Verslaggever (LS TV Station)
+Verslaggevers verdienen geld door de eerste te zijn die iets fotografeert. Als er iemand dood gaat en jij de eerste bent die een foto maakt van de moordenaar, zul je betaald worden. Je kunt ook geld verdienen door door bepaalde mensen te fotograferen die aangegeven worden met een blauw skelethoofd zoals rijke mensen, of een bepaald voertuig is betrokken in een verhaal waar een foto van nodig is.
+
+Machinist (LS Unity Station)
+Machinisten kunnen in een trein door heel San Andreas rijden, en stoppen bij passerende treinstations om betaald te worden.]]
 	},
 	["INFO_COMMANDS"] = {
 		en_US = [[PLAYER COMMANDS:
